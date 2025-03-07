@@ -7,7 +7,7 @@ string firstName = "Bettina ";
 string lastName = "Silva";
 string surname = "Santos ";
 
-int idade = 18;
+// int idade = 18;
 
 Console.WriteLine("Meu nome completo é " + firstName + surname + lastName + ",a minha idade é " + idade);
 
